@@ -1,0 +1,14 @@
+{
+  "name": "geoapp",
+  "version": "1.0.0",
+  "description": "muestra latitud y longitud del telefono",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "author": "Julian",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^4.4.11"
+  }
+}
